@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/zolvin/pac-man-legacy"><img src="https://github.com/zolvin/pac-man-legacy/blob/main/Misc/logo.png" alt="Image rotator" width="200"></a>
+  <a href="https://github.com/zoltanvin/pac-man-legacy"><img src="https://github.com/zoltanvin/pac-man-legacy/blob/main/Misc/logo.png" alt="Pac-Man Legacy" width="200"></a>
   <br>
   Pac-Man Legacy
   <br>
@@ -16,7 +16,7 @@
   <a href="#requirements-">Requirements</a>
 </p>
  
-![screenshot](https://github.com/zolvin/pac-man-legacy/blob/main/Misc/demo2.gif)
+![screenshot](https://github.com/zoltanvin/pac-man-legacy/blob/main/Misc/demo2.gif)
 
 # Key Features 🔑
 
@@ -30,7 +30,7 @@
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `java`, clone the repository into your local system using below command:
   - ```
-     git clone https://github.com/zolvin/pac-man-legacy.git
+     git clone https://github.com/zoltanvin/pac-man-legacy.git
     ```
   - This will clone the whole repository in your system
 - Starting in IntelliJ:
